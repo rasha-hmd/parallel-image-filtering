@@ -95,15 +95,10 @@ This project is fully containerized using Docker for portability and ease of exe
 
 ### 🏃 How to Use
 
-**Build the Docker image:**
-'''bash
-docker build -t image-filter .
+**Build the Docker image:** docker build -t image-filter .
 
-Run the benchmark:
-
-```bash
-docker run --rm image-filter
+**Run the benchmark:** docker run --rm image-filter
 This will execute the BenchmarkRunner class and output timing/speedup results.
 
-📦 Windows Shortcut
+### 📦 Windows Shortcut
 To build and run the container with one double-click, use: 'run-docker.bat'
