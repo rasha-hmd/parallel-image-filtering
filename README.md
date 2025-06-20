@@ -81,6 +81,10 @@ Double-click: `test.bat`
    - Sampler tab → view top-consuming methods
 4. Save screenshots for report
 
+## 🖼️ GUI Preview
+
+![GUI Screenshot](images/gui-screenshot.png)
+
 ## 🐳 Optional: Run via Docker
 This project is fully containerized using Docker for portability and ease of execution.
 
@@ -92,7 +96,7 @@ This project is fully containerized using Docker for portability and ease of exe
 ### 🏃 How to Use
 
 **Build the Docker image:**
-```bash
+'''bash
 docker build -t image-filter .
 
 Run the benchmark:
