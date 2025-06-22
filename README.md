@@ -52,9 +52,6 @@ This project implements **image filtering** (Gaussian Blur, Sharpen, Sobel Edge)
 ### 🚀 Compile Project
 Double-click: `rebuild.bat`
 
-### 🖼️ Run the GUI
-Double-click: `run-gui.bat`
-
 ### 📊 Run Benchmark
 Double-click: `run-benchmark.bat`  
 → Outputs `benchmark.csv` for plotting speedup curve
@@ -79,7 +76,6 @@ Double-click: `test.bat`
    - Monitor tab → CPU & memory
    - Threads tab → view Fork/Join worker threads
    - Sampler tab → view top-consuming methods
-4. Save screenshots for report
 
 ## 🖼️ GUI Preview
 
